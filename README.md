@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> # 👋 **Hello World! It's Alex here !** (Also known as MrAlex or ralexkiss)
+> # 👋 **Hello World!
 
 - 😺  Always starts new projects before finishing the previous one..
 - 🏠  Working from home
@@ -41,4 +41,4 @@ const Me = {
 
 ***
 
-_This [README.md](https://github.com/ralexkiss/ralexkiss "ralexkiss presentation") can be edited by his author at any moment.
+_This [README.md](https://github.com/ralexkiss/ralexkiss "ralexkiss presentation") can be edited by his author at any moment._
