@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> # 👋 **Hello World!
+> # 👋 **Hello World!**
 
 - 😺  Always starts new projects before finishing the previous one..
 - 🏠  Working from home
