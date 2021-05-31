@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😺  Always starts new projects before finishing the previous one..
 - 🏠  Working from home
 - 🚀  ICT Student @ Fontys University of Applied Sciences
-- 📣  You can contact me via [Discord](https://dsc.bio/ralexkiss)
+- 📣  You can contact me via [Discord](https://dsc.bio/ralexkiss) or [Mail](mail:contact@alexkiss.nl)
 
 <br />
 
