@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 const Me = {
     usernames = ["MrAlex","ralexkiss"]
     knowledge : {
-        frontend = ["HTML", "CSS", "JavaScript", "Vue.js", "Node.js" ]
+        frontend = ["HTML", "CSS", "JavaScript", "Vue", "Angular", React, "Node.js" ]
         backend = ["Java", "C#", ".NET Core", "PHP", "Python",]
         languages = ["English", "Dutch", "Romanian"]
     }
