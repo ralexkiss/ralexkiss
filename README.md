@@ -4,8 +4,8 @@ Hi 👋 My name is Alex Kiss
 Software Engineer
 -----------------
 
-* 🚀 ICT Student @ Fontys University of Applied Sciences 
-* 🗣️ Proficient in Dutch, English & Romanian
+🚀 ICT Student @ Fontys University of Applied Sciences 
+🗣️ Proficient in Dutch, English & Romanian
 
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio here on github or on [my own website](http://alexkiss.nl)
