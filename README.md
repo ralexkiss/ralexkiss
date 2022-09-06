@@ -8,7 +8,7 @@ Software Engineer
 
 * 🌍  I'm based in The Netherlands
 * 🖥️  See my portfolio here on github or on [my own website](http://alexkiss.nl)
-* ✉️  You can contact me through my [email](mailto:ralexkiss@gmail.com).
+* ✉️  You can contact me through my [email](mailto:ralexkiss@gmail.com)
 * 🧠  I'm currently learning Flutter, Dart and DevSecOps
 * 🤝  I'm open to collaborating on interesting projects
 
