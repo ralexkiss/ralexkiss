@@ -7,7 +7,7 @@ Software Engineer
 🚀 ICT Student @ Fontys University of Applied Sciences 🗣️ Proficient in Dutch, English & Romanian
 
 * 🌍  I'm based in The Netherlands
-* 🖥️  See my portfolio at [My own website!a](http://alexkiss.nl)
+* 🖥️  See my portfolio here on github or on [my own website](http://alexkiss.nl)
 * ✉️  You can contact me through my email, [Gmail](mailto:ralexkiss@gmail.com) or [Company](mailto:contact@alexkiss.nl)
 * 🧠  I'm currently learning Flutter, Dart and DevSecOps.
 * 🤝  I'm open to collaborating on interesting projects
