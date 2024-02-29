@@ -8,9 +8,8 @@ Security Analyst & Software Engineer
 🗣️ Proficient in Dutch, English & Romanian
 
 * 🌍  I'm based in The Netherlands
-* 🖥️  See my portfolio here on github or on [my own website](http://alexkiss.nl)
 * ✉️  You can contact me through my [email](mailto:ralexkiss@gmail.com)
-* 🧠  I'm currently learning Flutter, Dart and DevSecOps
+* 🧠  I'm currently focused on improving my Red & Blue Teaming skills.
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
