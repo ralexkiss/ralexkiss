@@ -1,7 +1,7 @@
 Hi 👋 My name is Alex Kiss
 ==========================
 
-Software Engineer
+Security Analyst & Software Engineer
 -----------------
 
 🚀 ICT Student @ Fontys University of Applied Sciences 
