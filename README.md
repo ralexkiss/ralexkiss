@@ -4,7 +4,8 @@ Hi 👋 My name is Alex Kiss
 Security Analyst & Software Engineer
 -----------------
 
-🚀 ICT Student @ Fontys University of Applied Sciences 
+🎓 Bsc. Computer Science - Graduated @ Fontys University of Applied Sciences 
+👨‍💻 Software Engineering & Cyber Securit
 🗣️ Proficient in Dutch, English & Romanian
 
 * 🌍  I'm based in The Netherlands
