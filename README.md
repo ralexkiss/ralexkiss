@@ -10,11 +10,6 @@ Full Stack Software Engineer & Security Analyst
 
 * 🌍  I'm based in The Netherlands
 * ✉️  You can contact me through my [email](mailto:ralexkiss@gmail.com)
-* 🧠  I'm currently focused on improving my Red & Blue Teaming skills.
 * 🤝  I'm open to collaborating on interesting projects
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ralexkiss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/alex-kiss-a020ba143/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ralexkiss" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 _This [README.md](https://github.com/ralexkiss/ralexkiss "ralexkiss presentation") can be edited by his author at any moment._
